@@ -44,6 +44,6 @@ My course in UCLA has provided a solid foundation and understanding for <b> Full
   <summary><b>📚 GitHub Statistics</b></summary>
   <p align="center">
     <a href="https://github.com/jwilferd10"><img alt="jwilferd10's Streak Stat" src="https://github-readme-streak-stats.herokuapp.com?user=jwilferd10&theme=radical"/></a>
-    <a href="https://github.com/jwilferd10"><img alt="jwilferd10's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jwilferd10&show_icons=true&theme=radical" width=45%"/></a>
+    <a href="https://github.com/jwilferd10"><img alt="jwilferd10's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jwilferd10&show_icons=true&theme=radical" width=46%"/></a>
     <a href="https://github.com/jwilferd10"><img alt="jwilferd10's most used language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwilferd10&layout=compact&langs_count=8&theme=radical" width=45%/></a>
 </details>
