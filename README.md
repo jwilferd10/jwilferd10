@@ -4,19 +4,23 @@
  </p>
 
 ## 💭 About Me:
+_"The impediment to action advances action. What stands in the way becomes the way."_ - **Marcus Aurelius**
+
 I'm an avid gamer with a relentless drive to improve my creative prowess. It was this passion for gaming and technology that set me on a course into the world of programming. 
 
-In 2020, I took a significant step forward by enrolling in UCLA's Coding Bootcamp. By 2021, I proudly finished the cohort specialized and armed with a solid foundation in Full Stack development. 
+In 2020, I took a significant step forward by enrolling in UCLA's Coding Bootcamp. By 2021, I proudly finished the cohort specialized and armed with a solid foundation in **Full Stack** development. 
 
 Since then, I've remained unwavering in my commitment to self-improvement, continuously enhancing my skills through:
 - Udemy Courses
 - Self-Study (Personal Projects, freeCodeCamp, etc)
 - Seizing freelancing opportunities.
 
+Currently I've created over a dozen projects, I strive for Open Source. Check out my repositories! 
+
 ## 🎮 Gaming as a Foundation:
 My gaming experiences have cultivated a distinct perspective on problem-solving; it's similar to tackling intricate puzzles in games like Portal. I'm confident that persistence yields the desired outcomes. This skill has integrated into my programming practices, for which I'm immensely grateful.
 
-## I've got two ambitions:
+## 📈 I've got two ambitions:
 
 1. **Software Developer:** I aspire to be a professional software developer. The goal is to work for a forward-thinking company, working towards a more interactive and dynamic digital environment.
 
