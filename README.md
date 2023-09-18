@@ -4,16 +4,23 @@
  </p>
 
 ## 💭 About Me:
+I'm an avid gamer with a relentless drive to improve my creative prowess. It was this passion for gaming and technology that set me on a course into the world of programming. 
 
-I'm an avid gamer that enjoys pushing my creativity to new heights! Because of my interest in gaming and in tech, I decided that programming would be a great path for me. I enrolled in UCLA's Coding Bootcamp back in 2020 and completed the course in 2021. Since then I've been self-studying and using freelancing as a method to sharpen and improve my skills. 
+In 2020, I took a significant step forward by enrolling in UCLA's Coding Bootcamp. By 2021, I proudly finished the cohort specialized and armed with a solid foundation in Full Stack development. 
 
-My course in UCLA has provided a solid foundation and understanding for <b> Full Stack </b> development. Additionally I learned from the bootcamp <i>(and from self-teaching)</i> that gaming has prepared me for programming, how you might ask? Well, like Portal, it's spending copious amounts of time problem sovling! 🥴😵
+Since then, I've remained unwavering in my commitment to self-improvement, continuously enhancing my skills through:
+- Udemy Courses
+- Self-Study (Personal Projects, freeCodeCamp, etc)
+- Seizing freelancing opportunities.
 
-### I've got two ambitions:
+## 🎮 Gaming as a Foundation:
+My gaming experiences have cultivated a distinct perspective on problem-solving; it's similar to tackling intricate puzzles in games like Portal. I'm confident that persistence yields the desired outcomes. This skill has integrated into my programming practices, for which I'm immensely grateful.
 
-1️⃣ Become a 💻 software developer 💻 for a company and work towards a more interactive tomorrow
+## I've got two ambitions:
 
-2️⃣ Develop a 🎮 video game 🎮 <i>(or two)</i> that people can enjoy
+1. **Software Developer:** I aspire to be a professional software developer. The goal is to work for a forward-thinking company, working towards a more interactive and dynamic digital environment.
+
+2. **Game Developer:** I aspire to craft captivating video games that people can immerse themselves in and enjoy.
 
 ### 🧰 Languages and Tech:
 
