@@ -55,12 +55,26 @@ To date, I’ve developed over a **dozen** projects and am eager to contribute t
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+---
+
 <details>
-  <summary><b>📚 GitHub Statistics</b></summary>
+ <summary>
+   <h3>📚 GitHub Statistics</h3>
+ </summary>
   <p align="center">
-    <a href="https://github.com/jwilferd10"><img alt="jwilferd10's Streak Stat" src="https://github-readme-streak-stats.herokuapp.com?user=jwilferd10&theme=radical"/></a>
-    <a href="https://github.com/jwilferd10"><img alt="jwilferd10's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jwilferd10&show_icons=true&theme=radical" width=46%"/></a>
-    <a href="https://github.com/jwilferd10"><img alt="jwilferd10's most used language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwilferd10&layout=compact&langs_count=8&theme=radical" width=45%/></a>
+    <a href="https://github.com/jwilferd10">
+      <img alt="jwilferd10's Streak Stat" src="https://github-readme-streak-stats.herokuapp.com?user=jwilferd10&theme=radical" width=55%/>
+    </a>
+  </p>
+    
+  <p align="center">
+    <a href="https://github.com/jwilferd10">
+      <img alt="jwilferd10's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jwilferd10&show_icons=true&theme=radical" width="49%" style="height: 200px;"/>
+    </a>
+    <a href="https://github.com/jwilferd10">
+      <img alt="jwilferd10's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwilferd10&layout=compact&langs_count=8&theme=radical" width="49%" style="height: 200px;"/>
+    </a>
+  </p>
 </details>
 
 ---
