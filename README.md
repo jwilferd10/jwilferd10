@@ -1,30 +1,34 @@
-<h1 align="center"> 👋 Hey there, I'm Jonathan. </h1>
+<h1 align="center"> 👋 Hey there, I'm Jonathan! </h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=F742C3&center=true&vCenter=true&width=435&lines=Freelance+Software+Developer;Avid+Gamer;Always+Learning+New+Code!">
  </p>
 
 ## 💭 About Me:
-_"The impediment to action advances action. What stands in the way becomes the way."_ - **Marcus Aurelius**
+_"The impediment to action advances action. What stands in the way becomes the way."_ — **Marcus Aurelius**
 
-I'm an avid gamer with a relentless drive to improve my creative prowess. It was this passion for gaming and technology that set me on a course into the world of programming. 
+I'm an avid reader and passionate gamer with a strong eagerness to learn and improve my creative and technical skills.
 
-In 2020, I took a significant step forward by enrolling in UCLA's Coding Bootcamp. By 2021, I proudly finished the cohort specialized and armed with a solid foundation in **Full Stack** development. 
+In 2020, I embarked on my coding journey by enrolling in UCLA's Coding Bootcamp. By 2021, I completed the program, specializing in **Full Stack Web Development**.
 
-Since then, I've remained unwavering in my commitment to self-improvement, continuously enhancing my skills through:
-- **Udemy Courses**
-- **Self-Study** (Personal Projects, freeCodeCamp, etc)
-- Seizing **Freelancing Opportunities**.
+Since then, I've remained focused on continuous learning and expanding my expertise through:
+- 📜 **Certification Courses**
+- 🎓 **Udemy Courses**
+- 📖 **Self-Study**
+- 💼 **Freelance Opportunities**
 
-Currently I've created over a **dozen** projects, I strive for Open Source. Check out my repositories! 
+To date, I’ve developed over a **dozen** projects and am eager to contribute to **Open Source**. Feel free to explore my work below!
 
-## 🎮 Gaming as a Foundation:
-My gaming experiences have cultivated a distinct perspective on problem-solving; it's similar to tackling intricate puzzles in games like Portal. I'm confident that persistence yields the desired outcomes. This skill has integrated into my programming practices, for which I'm immensely grateful.
+👉 **[Explore My Repositories](https://github.com/jwilferd10?tab=repositories)**
 
-## 📈 I've got two ambitions:
+---
 
-1. **Software Developer:** I aspire to be a professional software developer. The goal is to work for a forward-thinking company, working towards a more interactive and dynamic digital environment.
+### 📈 My Ambitions:
 
-2. **Game Developer:** I aspire to craft captivating video games that people can immerse themselves in and enjoy.
+1. **Software Developer:** While my studies have primarily focused on web development, I aspire to advance further and become a software engineer, deepening my technical expertise. My goal is to work for a forward-thinking company that is dedicated to creating more interactive and dynamic digital experiences.
+
+2. **Game Developer:** It’s a personal ambition of mine to create immersive horror games that people can enjoy and lose themselves in!
+
+---
 
 ### 🧰 Languages and Tech:
 
@@ -58,3 +62,9 @@ My gaming experiences have cultivated a distinct perspective on problem-solving;
     <a href="https://github.com/jwilferd10"><img alt="jwilferd10's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jwilferd10&show_icons=true&theme=radical" width=46%"/></a>
     <a href="https://github.com/jwilferd10"><img alt="jwilferd10's most used language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwilferd10&layout=compact&langs_count=8&theme=radical" width=45%/></a>
 </details>
+
+---
+
+### 📧 **Get in touch**: 
+
+👉 [LinkedIn](https://www.linkedin.com/in/jonathan-wilferd-3a6b461b6/) | [Email](mailto:wilferdjonathan@gmail.com)
