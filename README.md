@@ -29,31 +29,63 @@ To date, I’ve developed over a **dozen** projects and am eager to contribute t
 2. **Game Developer:** It’s a personal ambition of mine to create immersive horror games that people can enjoy and lose themselves in!
 
 ---
+### 🔧 Languages & Tools
 
-### 🧰 Languages and Tech:
+**Key Technologies**
+- **Languages**
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- **Frameworks**
+  
+  ![React](https://img.shields.io/badge/React-20232A?logo=react)
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express)
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
+<details>
+ <summary>
+  <h4>View Full Tech Stack</h4>
+ </summary>
+  
+- #### **Languages**
+  ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+- #### **Frameworks & Libraries**
+  ![React](https://img.shields.io/badge/React-20232A?logo=react)
+  ![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express)
+  ![Handlebars](https://img.shields.io/badge/Handlebars.js-f0772b?logo=handlebarsdotjs)
+  ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+  ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?logo=bulma&logoColor=white)
+
+- #### **Databases**
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+
+- #### **Tools**
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+  ![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)
+  ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)
+  ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?logo=insomnia&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+
+- #### **CDNs**
+  ![Bootstrap CDN](https://img.shields.io/badge/Bootstrap%20CDN-563D7C?logo=bootstrap&logoColor=white)
+  ![jQuery CDN](https://img.shields.io/badge/jQuery%20CDN-0769AD?logo=jquery&logoColor=white)
+  ![Bulma CDN](https://img.shields.io/badge/Bulma%20CDN-00D1B2?logo=bulma&logoColor=white)
 
 ### 📝 Currently Learning:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+</details>
 
 ---
 
