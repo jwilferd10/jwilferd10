@@ -22,52 +22,38 @@ To date, I’ve developed over a **dozen** projects and am eager to contribute t
 
 ---
 
-### 📈 My Ambitions:
+## 🔧 Languages & Tools
 
-1. **Software Developer:** While my studies have primarily focused on web development, I aspire to advance further and become a software engineer, deepening my technical expertise. My goal is to work for a forward-thinking company that is dedicated to creating more interactive and dynamic digital experiences.
-
-2. **Game Developer:** It’s a personal ambition of mine to create immersive horror games that people can enjoy and lose themselves in!
-
----
-### 🔧 Languages & Tools
-
-**Key Technologies**
-- **Languages**
+### Key Technologies
+ #### Languages
   
   ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-- **Frameworks**
+ #### Frameworks
   
   ![React](https://img.shields.io/badge/React-20232A?logo=react)
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express)
-
+  
 <details>
  <summary>
-  <h4>View Full Tech Stack</h4>
+  <h3>View Full Tech Stack</h3>
  </summary>
   
-- #### **Languages**
-  ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-
-- #### **Frameworks & Libraries**
-  ![React](https://img.shields.io/badge/React-20232A?logo=react)
-  ![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express)
+ #### Frameworks & Libraries
   ![Handlebars](https://img.shields.io/badge/Handlebars.js-f0772b?logo=handlebarsdotjs)
   ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
   ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?logo=bulma&logoColor=white)
 
-- #### **Databases**
+ #### Databases
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
-- #### **Tools**
+#### Tools
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
   ![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)
   ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)
@@ -76,22 +62,17 @@ To date, I’ve developed over a **dozen** projects and am eager to contribute t
   ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
-- #### **CDNs**
+ #### CDNs
   ![Bootstrap CDN](https://img.shields.io/badge/Bootstrap%20CDN-563D7C?logo=bootstrap&logoColor=white)
   ![jQuery CDN](https://img.shields.io/badge/jQuery%20CDN-0769AD?logo=jquery&logoColor=white)
   ![Bulma CDN](https://img.shields.io/badge/Bulma%20CDN-00D1B2?logo=bulma&logoColor=white)
-
-### 📝 Currently Learning:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 </details>
 
 ---
 
 <details>
  <summary>
-   <h3>📚 GitHub Statistics</h3>
+   <h2>📚 GitHub Statistics</h2>
  </summary>
   <p align="center">
     <a href="https://github.com/jwilferd10">
@@ -111,6 +92,6 @@ To date, I’ve developed over a **dozen** projects and am eager to contribute t
 
 ---
 
-### 📧 **Get in touch**: 
+## 📧 **Get in touch**: 
 
 👉 [LinkedIn](https://www.linkedin.com/in/jonathan-wilferd-3a6b461b6/) | [Email](mailto:wilferdjonathan@gmail.com)
