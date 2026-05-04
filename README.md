@@ -4,17 +4,7 @@
  </p>
 
 ## 💭 About Me:
-_"The impediment to action advances action. What stands in the way becomes the way."_ — **Marcus Aurelius**
-
-I'm an avid reader and passionate gamer with a strong eagerness to learn and improve my creative and technical skills.
-
-In 2020, I embarked on my coding journey by enrolling in UCLA's Coding Bootcamp. By 2021, I completed the program, specializing in **Full Stack Web Development**.
-
-Since then, I've remained focused on continuous learning and expanding my expertise through:
-- 📜 **Certification Courses**
-- 🎓 **Udemy Courses**
-- 📖 **Self-Study**
-- 💼 **Freelance Opportunities**
+I've a passion for working on hobby projects and developing user-interfaces for them. 
 
 To date, I’ve developed over a **dozen** projects and am eager to contribute to **Open Source**. Feel free to explore my work below!
 
